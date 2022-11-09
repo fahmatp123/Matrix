@@ -7,4 +7,4 @@ The output of the program :
                          
                           1	3	6	 9	
                           2	5	8	 11	
-                          4	7	10 12	
+                          4	7	10  12	
